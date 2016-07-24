@@ -1,0 +1,23 @@
+{
+  "name": "advertisement",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "heroku/java"
+    },
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}
